@@ -190,7 +190,7 @@ PRODUCT_PACKAGES += \
 
 # Fastboot
 PRODUCT_PACKAGES += \
-    fastbootd
+    android.hardware.fastboot-service.example_recovery
 
 # GPS
 PRODUCT_COPY_FILES += \
